@@ -13,11 +13,11 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\android\app\src\debug\AndroidManifest.xml:6:5-66
-15-->C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\android\app\src\debug\AndroidManifest.xml:6:22-64
+15-->C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\android\app\src\debug\AndroidManifest.xml:6:5-66
+15-->C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\android\app\src\debug\AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->[:connectivity] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-16-->[:connectivity] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+16-->[:connectivity] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+16-->[:connectivity] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 17
 18    <permission
 18-->[androidx.core:core:1.10.1] C:\Users\bderr\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
@@ -71,13 +71,13 @@
 61            android:value="2" />
 62
 63        <activity
-63-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+63-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 64            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-64-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+64-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 65            android:exported="false"
-65-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+65-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 66            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-66-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+66-->[:url_launcher_android] C:\Users\bderr\Desktop\folder\projects\flutter\MyProject\serkouh-acote\Abderrahmane-acote\serkouhacote\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 67
 68        <uses-library
 68-->[androidx.window:window:1.0.0-beta04] C:\Users\bderr\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
